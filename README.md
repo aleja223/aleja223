@@ -1,7 +1,7 @@
 
 <h1 align="center">Hola 👋, soy Alejandra</h1>
 
-<h3 align="center">Soy una apasionada por la tecnología con sólidos conocimientos en  React,  Redux,  PostgreSQL, Express, Next.js  Mi enfoque se centra en la creación de aplicaciones web atractivas y funcionales. Estoy comprometida con mi crecimiento y ansiosa por contribuir en el mundo del desarrollo con mis habilidades técnicas y mi pasión por la tecnología.</h3>
+<h3 align="center">Soy una apasionada por la tecnología con sólidos conocimientos.Mi enfoque se centra en la creación de aplicaciones web atractivas y funcionales. Estoy comprometida con mi crecimiento y ansiosa por contribuir en el mundo del desarrollo con mis habilidades técnicas y mi pasión por la tecnología.</h3>
 
 - 📫 Cómo contactarme: **balby223@gmail.com**
 
