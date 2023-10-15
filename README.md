@@ -4,9 +4,6 @@
 <h3 align="center">Soy una apasionada por la tecnología con sólidos conocimientos.Mi enfoque se centra en la creación de aplicaciones web atractivas y funcionales. Estoy comprometida con mi crecimiento y ansiosa por contribuir en el mundo del desarrollo con mis habilidades técnicas y mi pasión por la tecnología.</h3>
 
 - 📫 Cómo contactarme: **balby223@gmail.com**
-
-<h3 align="left">Conéctate conmigo:</h3>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/alejandra-león-b080a8234" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin-alt.svg" alt="LinkedIn" height="30" width="40" />
