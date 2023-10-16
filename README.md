@@ -1,10 +1,8 @@
 ![MasterHead](https://www.houston-pc.com/wp-content/uploads/2016/05/Custom-Coding-Houston-TX-Houston-PC-Services.png)
 <table>
   <tr>
-    <td width="50%">
-      <p style="font-family: 'Bebas Neue', cursive; font-size: 16px;">
-        Soy una apasionada por la tecnología con sólidos conocimientos. Mi enfoque se centra en la creación de aplicaciones web atractivas y funcionales. Estoy comprometida con mi crecimiento y ansiosa por contribuir en el mundo del desarrollo con mis habilidades técnicas y mi pasión por la tecnología.
-      </p>
+    <td width="50%" style="font-family: Montserrat, sans-serif; font-size: 16px;">
+      Soy una apasionada por la tecnología con sólidos conocimientos. Mi enfoque se centra en la creación de aplicaciones web atractivas y funcionales. Estoy comprometida con mi crecimiento y ansiosa por contribuir en el mundo del desarrollo con mis habilidades técnicas y mi pasión por la tecnología.
     </td>
     <td width="50%">
       <img src="https://i.pinimg.com/originals/57/a2/8b/57a28bbf8e5fd8338c145f88a107f2f2.gif" alt="Gato" width="300" height="200">
