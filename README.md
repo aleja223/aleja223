@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.dreamstime.com/z/programming-language-coding-banner-compilation-css-technology-210006161.jpg)
+![MasterHead](https://www.houston-pc.com/wp-content/uploads/2016/05/Custom-Coding-Houston-TX-Houston-PC-Services.png)
 
 <table>
   <tr>
