@@ -2,12 +2,12 @@
 <table>
   <tr>
     <td width="50%">
-      <span style="font-family: 'Times New Roman', Times, serif; font-size: 18px; font-weight: bold;">
+      <p style="font-family: 'Bebas Neue', cursive; font-size: 16px;">
         Soy una apasionada por la tecnología con sólidos conocimientos. Mi enfoque se centra en la creación de aplicaciones web atractivas y funcionales. Estoy comprometida con mi crecimiento y ansiosa por contribuir en el mundo del desarrollo con mis habilidades técnicas y mi pasión por la tecnología.
-      </span>
+      </p>
     </td>
     <td width="50%">
-      <img src="https://i.pinimg.com/originals/57/a2/8b/57a28bbf8e5fd8338c145f88a107f2f2.gif" alt="Gato" width="310" height="200">
+      <img src="https://i.pinimg.com/originals/57/a2/8b/57a28bbf8e5fd8338c145f88a107f2f2.gif" alt="Gato" width="300" height="200">
     </td>
   </tr>
 </table>
