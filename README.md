@@ -1,16 +1,16 @@
 ![MasterHead](https://www.houston-pc.com/wp-content/uploads/2016/05/Custom-Coding-Houston-TX-Houston-PC-Services.png)
-
 <table>
   <tr>
     <td width="50%">
-      Soy una apasionada por la tecnología con sólidos conocimientos. Mi enfoque se centra en la creación de aplicaciones web atractivas y funcionales. Estoy comprometida con mi crecimiento y ansiosa por contribuir en el mundo del desarrollo con mis habilidades técnicas y mi pasión por la tecnología.
+      <span style="font-family: 'Times New Roman', Times, serif; font-size: 18px; font-weight: bold;">
+        Soy una apasionada por la tecnología con sólidos conocimientos. Mi enfoque se centra en la creación de aplicaciones web atractivas y funcionales. Estoy comprometida con mi crecimiento y ansiosa por contribuir en el mundo del desarrollo con mis habilidades técnicas y mi pasión por la tecnología.
+      </span>
     </td>
     <td width="50%">
-      <img src="https://i.pinimg.com/originals/57/a2/8b/57a28bbf8e5fd8338c145f88a107f2f2.gif" alt="Gato" width="280" height="200">
+      <img src="https://i.pinimg.com/originals/57/a2/8b/57a28bbf8e5fd8338c145f88a107f2f2.gif" alt="Gato" width="310" height="200">
     </td>
   </tr>
 </table>
-
 ## 📫 Cómo contactarme
 
 - Email: **balby223@gmail.com**
