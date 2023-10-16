@@ -45,3 +45,4 @@ Soy una apasionada por la tecnología con sólidos conocimientos. Mi enfoque se 
 <p align="center">
   <img src="https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif" alt="Gatito" width="200" height="200">
 </p>
+
