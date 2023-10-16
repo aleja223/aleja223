@@ -6,7 +6,7 @@
       Soy una apasionada por la tecnología con sólidos conocimientos. Mi enfoque se centra en la creación de aplicaciones web atractivas y funcionales. Estoy comprometida con mi crecimiento y ansiosa por contribuir en el mundo del desarrollo con mis habilidades técnicas y mi pasión por la tecnología.
     </td>
     <td width="50%">
-      <img src="https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif" alt="Gatito" width="280" height="200">
+      <img src="https://giphy.com/stickers/shecodesio-computer-javascript-shecodes-M4NykXxUE0HAcK7UJ6" alt="Gatito" width="280" height="200">
     </td>
   </tr>
 </table>
