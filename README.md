@@ -1,14 +1,12 @@
 ![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)
 
-# Hola 👋, soy Alejandra
-
 <table>
   <tr>
     <td width="50%">
       Soy una apasionada por la tecnología con sólidos conocimientos. Mi enfoque se centra en la creación de aplicaciones web atractivas y funcionales. Estoy comprometida con mi crecimiento y ansiosa por contribuir en el mundo del desarrollo con mis habilidades técnicas y mi pasión por la tecnología.
     </td>
     <td width="50%">
-      <img src="https://co.pinterest.com/pin/612489618099981827/" alt="Gatito" width="250" height="250">
+      <img src="https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif" alt="Gatito" width="300" height="300">
     </td>
   </tr>
 </table>
@@ -52,4 +50,3 @@
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">
   </a>
 </p>
-
