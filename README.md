@@ -1,4 +1,4 @@
-![MasterHead](https://www.shutterstock.com/es/image-photo/computer-language-html-css-website-technology-1983038642?irclickid=w8VVtF3P6xyPWrATYe2wbU7mUkFTWZQn%3ART1z40&irgwc=1&utm_campaign=Freepik%20Company&utm_content=832036&utm_medium=Affiliate&utm_source=4869764&utm_term=GA1.2.1338058285.1697417868)
+![MasterHead](https://www.shutterstock.com/image-photo/computer-language-html-css-website-technology-1983038642)
 
 <table>
   <tr>
