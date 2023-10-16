@@ -1,4 +1,6 @@
-# Hola 👋, soy Alejandra
+# Hola 👋, soy Alejandra León <p align="center">
+  <img src="https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif" alt="Gatito" width="200" height="200">
+</p>
 
 Soy una apasionada por la tecnología con sólidos conocimientos. Mi enfoque se centra en la creación de aplicaciones web atractivas y funcionales. Estoy comprometida con mi crecimiento y ansiosa por contribuir en el mundo del desarrollo con mis habilidades técnicas y mi pasión por la tecnología.
 
@@ -19,8 +21,4 @@ Soy una apasionada por la tecnología con sólidos conocimientos. Mi enfoque se 
 - ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
 - ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next-dot-js)
 - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<p align="center">
-  <img src="https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif" alt="Gatito" width="200" height="200">
-</p>
 
