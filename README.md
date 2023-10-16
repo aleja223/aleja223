@@ -1,6 +1,7 @@
 # Hola 👋, soy Alejandra
 
-*Soy una apasionada por la tecnología con sólidos conocimientos. Mi enfoque se centra en la creación de aplicaciones web atractivas y funcionales. Estoy comprometida con mi crecimiento y ansiosa por contribuir en el mundo del desarrollo con mis habilidades técnicas y mi pasión por la tecnología.*  <img src="https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif" alt="Gatito" width="200" height="200">
+*Soy una apasionada por la tecnología con sólidos conocimientos. Mi enfoque se centra en la creación de aplicaciones web atractivas y funcionales. Estoy comprometida con mi crecimiento y ansiosa por contribuir en el mundo del desarrollo con mis habilidades técnicas y mi pasión por la tecnología.*  
+<img src="https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif" alt="Gatito" width="200" height="200">
 
 ## 📫 Cómo contactarme
 
