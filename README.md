@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="50%">
-      Soy una apasionada por la tecnología con sólidos conocimientos. Mi enfoque se centra en la creación de aplicaciones web atractivas y funcionales. Estoy comprometida con mi crecimiento y ansiosa por contribuir en el mundo del desarrollo con mis habilidades técnicas y mi pasión por la tecnología.
+      Soy una apasionada por la tecnología con sólidos conocimientos. Mi enfoque se centra en la creación de aplicaciones web atractivas y funcionales. Estoy comprometida con mi crecimiento y ansiosa por contribuir en el mundo del desarrollo con mis habilidades técnicas y mi pasión por la tecnología.https://trendy-tech.onrender.com/
     </td>
     <td width="50%">
       <img src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif" alt="Chica" width="280" height="200">
