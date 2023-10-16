@@ -1,4 +1,6 @@
-![MasterHead](https://www.houston-pc.com/wp-content/uploads/2016/05/Custom-Coding-Houston-TX-Houston-PC-Services.png)
+<p align="center">
+  <img src="https://www.houston-pc.com/wp-content/uploads/2016/05/Custom-Coding-Houston-TX-Houston-PC-Services.png" alt="MasterHead" width="600">
+</p>
 <table>
   <tr>
     <td width="50%" style="font-family: Montserrat, sans-serif; font-size: 16px;">
