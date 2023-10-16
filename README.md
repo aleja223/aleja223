@@ -6,7 +6,7 @@
       Soy una apasionada por la tecnología con sólidos conocimientos. Mi enfoque se centra en la creación de aplicaciones web atractivas y funcionales. Estoy comprometida con mi crecimiento y ansiosa por contribuir en el mundo del desarrollo con mis habilidades técnicas y mi pasión por la tecnología.
     </td>
     <td width="50%">
-      <img src="https://giphy.com/gifs/Sushiboxru-cat-kitten-sushistik-f6hnhHkks8bk4jwjh3/fullscreen" alt="Gato" width="280" height="200">
+      <img src="https://i.pinimg.com/originals/57/a2/8b/57a28bbf8e5fd8338c145f88a107f2f2.gif" alt="Gato" width="280" height="200">
     </td>
   </tr>
 </table>
