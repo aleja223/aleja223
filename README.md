@@ -41,9 +41,7 @@
   <a href="https://expressjs.com">
     <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express" alt="Express">
   </a>
-  <a href="https://nextjs.org">
-    <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next-dot-js" alt="Next.js">
-  </a>
+
   <a href="https://code.visualstudio.com">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">
   </a>
